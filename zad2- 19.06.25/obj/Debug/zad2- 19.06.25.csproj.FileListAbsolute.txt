@@ -1,0 +1,7 @@
+C:\Users\PC-04\source\repos\zad2- 19.06.25\bin\Debug\zad2- 19.06.25.exe.config
+C:\Users\PC-04\source\repos\zad2- 19.06.25\bin\Debug\zad2- 19.06.25.exe
+C:\Users\PC-04\source\repos\zad2- 19.06.25\bin\Debug\zad2- 19.06.25.pdb
+C:\Users\PC-04\source\repos\zad2- 19.06.25\obj\Debug\zad2- 19.06.25.csproj.AssemblyReference.cache
+C:\Users\PC-04\source\repos\zad2- 19.06.25\obj\Debug\zad2- 19.06.25.csproj.CoreCompileInputs.cache
+C:\Users\PC-04\source\repos\zad2- 19.06.25\obj\Debug\zad2- 19.06.25.exe
+C:\Users\PC-04\source\repos\zad2- 19.06.25\obj\Debug\zad2- 19.06.25.pdb
